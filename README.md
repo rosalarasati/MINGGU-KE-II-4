@@ -13,16 +13,33 @@
 
 <img src="https://github.com/rosalarasati/MINGGU-KE-II-4/blob/main/konsep%202%20pipa.png">
   
-  
+<img src="https://github.com/rosalarasati/MINGGU-KE-II-4/blob/main/konsep%202%20pipa.v.png">  
+
 
 2. Kubangan Kerbau mempunyai volume 40 m3 diisi dengan air, memakai pipa. Waktu yang diperlukan untuk mengisinya sampai penuh yaitu 4 jam. Berapa liter/detik debit air yang keluar dari pipa tersebut?
 ### Konsep 1
 
+<img src="https://github.com/rosalarasati/MINGGU-KE-II-4/blob/main/konsep%201%20kerbau.png">
+
+<img src="https://github.com/rosalarasati/MINGGU-KE-II-4/blob/main/konsep%201%20kerbau.v.png">
 
 ### Konsep 2
+
+<img src="https://github.com/rosalarasati/MINGGU-KE-II-4/blob/main/konsep%202%20kerbau.png">
+
+<img src="https://github.com/rosalarasati/MINGGU-KE-II-4/blob/main/konsep%202%20kerbau.v.png">
+
 
 3. Terdapat sebuah air terjun yang mempunyai debit air sebesar 80 m3/detik. Berapa banyak air yang bisa dipindahkan air terjun tersebut dalam waktu 10 menit?
 ### Konsep 1
 
+<img src="https://github.com/rosalarasati/MINGGU-KE-II-4/blob/main/konsep%201%20air.png">
+
+<img src="https://github.com/rosalarasati/MINGGU-KE-II-4/blob/main/konsep%201%20air.v.png">
+
 
 ### Konsep 2
+
+<img src="https://github.com/rosalarasati/MINGGU-KE-II-4/blob/main/konsep%202%20air.png">
+
+<img src="https://github.com/rosalarasati/MINGGU-KE-II-4/blob/main/konsep%202%20air.v.png">
