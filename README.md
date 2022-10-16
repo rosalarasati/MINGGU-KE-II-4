@@ -11,7 +11,9 @@
 
 ### Konsep 2
 
-
+<img src="https://github.com/rosalarasati/MINGGU-KE-II-4/blob/main/konsep%202%20pipa.png">
+  
+  
 
 2. Kubangan Kerbau mempunyai volume 40 m3 diisi dengan air, memakai pipa. Waktu yang diperlukan untuk mengisinya sampai penuh yaitu 4 jam. Berapa liter/detik debit air yang keluar dari pipa tersebut?
 ### Konsep 1
