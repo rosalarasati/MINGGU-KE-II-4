@@ -5,6 +5,9 @@
 1. Di Kampus UTS memiliki pipa yang bisa mengalirakan air sebanyak 125 liter air dalam waktu 50 menit. Berapa cm3/ detik debit anutan pipa air tersebut?
 ### Konsep 1
 
+<img src="https://github.com/rosalarasati/MINGGU-KE-II-4/blob/main/konsep%201%20pipa.png">
+
+
 
 ### Konsep 2
 
